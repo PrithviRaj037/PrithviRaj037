@@ -40,6 +40,8 @@ Relevant coursework:
 - Electronics
 - Mechanics
 
+**Thesis: Design and Fabrication of PLC-based Industrial Trainer Kit.**
+
 ---
 
 ## 🛠️ Technical Skills
