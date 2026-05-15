@@ -1,7 +1,6 @@
 # Hi there, I'm Prithvi Raj Karmani 👋
 
-Motivated to design, build, and deploy intelligent robotic systems that bridge the gap between research and real-world solutions.
-
+Robotics master's student focused on ROS 2, autonomous navigation, SLAM, perception, and real-world robot deployment.
 **Robotics Software Engineer | Master's Student | ROS 2 | MoveIt 2 | SLAM | Autonomous Navigation | Robot Manipulation Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prithviraj123-blue)](https://www.linkedin.com/in/prithviraj123)
